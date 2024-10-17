@@ -4,16 +4,16 @@
 
 2. **MySQL启动/关闭**  
     打开cmd输入命令行：
-    - net start mysql80  
-    - net stop mysql80
+    > net start mysql80  
+    > net stop mysql80
 
 3. **MySQL客户端连接**  
-
-    > 先配置环境  
-    
+  
     打开cmd输入命令行：  
-    - mysql -u root -p 
-    - 输入密码  
+    > mysql -u root -p  
+    > 输入密码  
+
+    <h6>注意：先配置环境</h6>
 
 ---
 #### 学习资料（视频）  
